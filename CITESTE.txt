@@ -1,4 +1,4 @@
 de bagat in in vrp/item/required
 items["pizza"] = {"Pizza🍕", "",nil,0.1,"pocket"} 
-
+ NU UITA CA TREBUIE SA FACI TU IN VRP-BASIC-MISSION SA LIVREZI COMENZILE
 e paleto!
