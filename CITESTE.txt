@@ -1,0 +1,4 @@
+de bagat in in vrp/item/required
+items["pizza"] = {"Pizza🍕", "",nil,0.1,"pocket"} 
+
+e paleto!
